@@ -8,4 +8,4 @@ I am a React and React native developer with 4+ years experience building indust
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I been programming since im 8yo.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroraft&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroraft&hide=c%23,html)](https://github.com/anuraghazra/github-readme-stats)
